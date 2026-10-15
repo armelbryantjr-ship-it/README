@@ -1,6 +1,6 @@
 <!-- Bannière du profil GitHub -->
 <p align="center">
-  <img src="179206367975.jpg.jpg" alt="Bannière Armel.Portfolio" width="100%" />
+  <img src="179206367975.jpg.jpeg" alt="Bannière Armel.Portfolio" width="100%" />
 </p>
 
 Hi, I'm Armel 👋
