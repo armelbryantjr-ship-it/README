@@ -1,1 +1,19 @@
-# README
+Hi, I’m Armel
+Photographer, Videographer, Community Manager, Graphic Designer
+Welcome to my GitHub profile!
+I'm Armel, a creative professional from Madagascar passionate about visual storytelling, digital communication, photography, and multimedia production.
+I help individuals, brands, and organizations communicate their stories through impactful visuals and digital content.
+•	📸 Professional Photographer
+•	🎬 Videographer and Content Creator
+•	🎨 Graphic Designer
+•	📱 Community Manager
+•	💻 Interested in web development and digital technologies
+•	📍 Based in Antananarivo Madagascar
+•	🎯 My goal: Create meaningful work and become better every day.
+Skills & Tools
+•	Photography: Portrait, Wedding, Event, Studio & Outdoor
+•	Video: Video shooting and editing
+•	Design: Adobe Photoshop, Illustrator
+•	Photo Editing: Adobe Lightroom
+•	Video Editing: Adobe Premiere Pro, CapCut
+•	Digital Marketing: Social media management and content strategy
